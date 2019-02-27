@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Db app</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textName">Book name:</string>
+    <string name="textDesc">Description:</string>
+    <string name="hintDesc">Description</string>
+    <string name="buttonCreateBook">Create book </string>
+    <string name="hintName">Name</string>
+    <string name="text_switch">Table (Book/Book Details)</string>
+</resources>

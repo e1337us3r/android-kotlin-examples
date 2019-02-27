@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Accessible</string>
+    <string name="txtCounter">Count :</string>
+    <string name="fab">increment</string>
+    <string name="increment_number">Increment Number</string>
+    <string name="count_label">Count label</string>
+    <string name="current_count">Current count</string>
+</resources>

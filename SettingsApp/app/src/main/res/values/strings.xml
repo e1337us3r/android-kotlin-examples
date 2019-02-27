@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Settings App</string>
+    <string name="list_preference_color">list_preference_color</string>
+</resources>

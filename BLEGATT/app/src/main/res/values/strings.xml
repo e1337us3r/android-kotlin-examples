@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BLE GATT</string>
+
+    <string name="btnScan">Scan</string>
+</resources>

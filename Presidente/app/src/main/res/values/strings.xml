@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Presidente</string>
+    <string name="nameField">Select a President</string>
+    <string name="descField">Select a President</string>
+</resources>

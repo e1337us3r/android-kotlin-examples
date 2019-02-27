@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <RelativeLayout
+        android:layout_width="396dp"
+        android:layout_height="0dp"
+        tools:layout_editor_absoluteX="-4dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/txtHello"
+            android:layout_width="match_parent"
+            android:layout_height="299dp"
+            android:layout_centerHorizontal="true"
+            android:background="@color/big_box"
+            android:elevation="2dp"
+            android:text="@string/hello"
+            android:textAlignment="center"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtTwo"
+            android:layout_width="139dp"
+            android:layout_height="92dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="182dp"
+            android:background="@color/small_box"
+            android:elevation="8dp"
+            android:paddingTop="25dp"
+            android:text="@string/small_box"
+            android:textAlignment="center"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="101dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="12dp"
+            android:text="@string/button" />
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>
